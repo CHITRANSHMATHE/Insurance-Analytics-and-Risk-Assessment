@@ -1,0 +1,15 @@
+**Key Insights**
+- Higher premium increase percentages were associated with significantly higher customer churn rates.
+- Certain policy categories showed elevated churn behavior and retention risk.
+- Customers with missed payments demonstrated different claim behavior patterns compared to regular payers.
+- Claim amount distributions were highly skewed with several extreme outliers impacting average claims.
+- Premium segmentation analysis revealed variations in churn behavior across premium deciles.
+- Feature engineering techniques helped identify high-risk customer segments and deductible-based policy risk patterns.
+
+**Recommendations**
+1. Introduce targeted retention strategies for customers experiencing high premium increases.
+2. Monitor high-risk premium deciles and policy categories with elevated churn rates.
+3. Improve payment follow-up systems for customers with repeated missed payments.
+4. Use engineered risk flags and claim-to-premium ratios for early risk identification.
+5. Apply premium optimization strategies based on customer behavior and claim history.
+6. Leverage rolling claim trends and YoY premium growth metrics for long-term pricing analysis.
